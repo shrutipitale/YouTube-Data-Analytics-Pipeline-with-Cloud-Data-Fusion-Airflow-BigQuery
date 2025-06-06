@@ -86,8 +86,18 @@ Estimated time is 15-20 minute after success instance. In the Action View Instan
 ![image](https://github.com/user-attachments/assets/a46c3869-7f4e-4cd8-a0c4-b57d0e872dff)
 
 Cloud Storage Default, Select Data *youtube-demo-02*, the data science.csv and select all the column button Create a Pipeline, Batch Pipeline.
+![image](https://github.com/user-attachments/assets/634a8c5d-e4e3-4fbf-a2b5-a7b2a9385043)
 
+## BigQuery
+![image](https://github.com/user-attachments/assets/ea518ac7-7624-48c6-8e63-ac84b19fceb9)
 
+![image](https://github.com/user-attachments/assets/3da01ec6-afc4-4f24-bad3-4326f41b72f6)
 
+## Google Looker
+![image](https://github.com/user-attachments/assets/9102627c-ca33-4c70-b307-c20c90511865)
 
+![image](https://github.com/user-attachments/assets/2f652938-1dcb-44b6-9afe-3879f3b23054)
 
+![image](https://github.com/user-attachments/assets/a4a271f0-f4ef-4180-8df9-164732f59137)
+
+![image](https://github.com/user-attachments/assets/76be6e07-280e-4cae-a928-c738ace04498)
