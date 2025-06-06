@@ -2,8 +2,6 @@
 
 This repository contains code and configuration files for an Extract, Transform, Load (ETL) project using Google Cloud Data Fusion for data extraction, Google BigQuery for data loading.
 
-Refer youtube Video for this project
-
 ## Overview
 The project aims to perform the following tasks:
 
