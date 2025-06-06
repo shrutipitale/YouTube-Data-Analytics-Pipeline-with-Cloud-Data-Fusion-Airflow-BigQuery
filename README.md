@@ -1,4 +1,4 @@
-# YouTube-Data-Analytics-Pipeline-with-Cloud-Data-Fusion-Airflow-BigQuery
+# YouTube-Data-Analytics-Pipeline-with-Cloud-Data-Fusion-BigQuery-Looker
 
 This repository contains code and configuration files for an Extract, Transform, Load (ETL) project using Google Cloud Data Fusion for data extraction, Google BigQuery for data loading.
 
